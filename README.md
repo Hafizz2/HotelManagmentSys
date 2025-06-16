@@ -61,16 +61,20 @@ Track outstanding balances.
 Screenshots
 
 ### Login Form
-![Login Form](images/dashboard.png)
+![Login Form](images/login.png)
+
+### Homepage For Customer
+![Main Dashboard](images/Homepage.png)
+
 
 ### Main Dashboard
-![Main Dashboard](images/dashboard.png)
+![Main Dashboard](images/Dashboard.png)
 
-### New Reservation Form
-![New Reservation Form](images/reservation_form.png)
+### Reservation Form
+![New Reservation Form](images/Reserve.png)
 
 ### Room Manage
-![Room List](images/room_list.png)
+![Room List](images/Rooms.png)
 
 Usage
 Run the Application:
